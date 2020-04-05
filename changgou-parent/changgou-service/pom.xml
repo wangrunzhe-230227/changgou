@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>changgou-service</artifactId>
+    <packaging>pom</packaging>
     <!--    <packaging>pom</packaging>-->
 
     <description>
@@ -17,6 +18,7 @@
     </description>
     <modules>
         <module>changgou-service-goods</module>
+        <module>changgou-service-file</module>
     </modules>
 
     <!--  依赖  -->
